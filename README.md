@@ -1,15 +1,20 @@
 Resources for Data Science
 ================
 
-This is a repository of R scripts, examples and resources.
+Do you want to become a data scientist using R? These are some of the resources that will help you.
 
-R resources
+**Programs**
 
-1. http://www.r-bloggers.com
-2. http://onepager.togaware.com
+- [RStudio](www.rstudio.com)
+- [R](www.r-project.org)
 
-Statistics
+**R resources**
 
-1. The Elements of 
-Statistical Learning: http://statweb.stanford.edu/~tibs/ElemStatLearn/
+1. [R-bloggers](http://www.r-bloggers.com)
+2. [Togaware](http://onepager.togaware.com)
+
+**Books**
+
+- [The Elements of 
+Statistical Learning](http://statweb.stanford.edu/~tibs/ElemStatLearn/)
 
