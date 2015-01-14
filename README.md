@@ -22,3 +22,11 @@ Do you want to become a data scientist using R? These are some of the resources 
 - [Reproducible Research](http://christophergandrud.github.io/RepResR-RStudio/)
 - [The Elements of 
 Statistical Learning](http://statweb.stanford.edu/~tibs/ElemStatLearn/)
+
+**Reference Cards, Guides & Cheatsheets**
+
+- [R Reference Card](http://cran.r-project.org/doc/contrib/Short-refcard.pdf)
+- [Rmarkdown Reference Guide](http://www.rstudio.com/wp-content/uploads/2015/01/rmarkdown-reference.pdf)
+- [Rmarkdown Cheatsheet Guide](http://www.rstudio.com/wp-content/uploads/2015/01/rmarkdown-cheatsheet.pdf)
+- [Data Wrangling Cheatsheet](http://www.rstudio.com/wp-content/uploads/2015/01/data-wrangling-cheatsheet.pdf)
+- [Shiny Cheatsheet](http://www.rstudio.com/wp-content/uploads/2015/01/shiny-cheatsheet.pdf)
