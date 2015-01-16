@@ -31,7 +31,11 @@ Statistical Learning](http://statweb.stanford.edu/~tibs/ElemStatLearn/)
 - [Data Wrangling Cheatsheet](http://www.rstudio.com/wp-content/uploads/2015/01/data-wrangling-cheatsheet.pdf)
 - [Shiny Cheatsheet](http://www.rstudio.com/wp-content/uploads/2015/01/shiny-cheatsheet.pdf)
 
-**R Libraries**
+**Python**
+
+- [Python](https://www.python.org)
+
+**Python Libraries**
 
 - [Pandas](http://pandas.pydata.org/)
 - [scikit-learn](http://scikit-learn.org)
