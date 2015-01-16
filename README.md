@@ -33,9 +33,9 @@ Statistical Learning](http://statweb.stanford.edu/~tibs/ElemStatLearn/)
 
 **R Libraries**
 
--[Pandas](http://pandas.pydata.org/)
--[scikit-learn](http://scikit-learn.org)
--[IPython](http://ipython.org)
--[matplotlib](http://matplotlib.org)
--[SciPy](http://www.scipy.org)
--[NumPy](http://www.numpy.org)
+- [Pandas](http://pandas.pydata.org/)
+- [scikit-learn](http://scikit-learn.org)
+- [IPython](http://ipython.org)
+- [matplotlib](http://matplotlib.org)
+- [SciPy](http://www.scipy.org)
+- [NumPy](http://www.numpy.org)
