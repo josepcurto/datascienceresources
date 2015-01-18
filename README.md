@@ -22,6 +22,9 @@ Do you want to become a data scientist using R or Python? These are some of the 
 - [Reproducible Research](http://christophergandrud.github.io/RepResR-RStudio/)
 - [The Elements of 
 Statistical Learning](http://statweb.stanford.edu/~tibs/ElemStatLearn/)
+- [Handbook of Hidden Data Scientist](http://ondrej-kvasnovsky.gitbooks.io/handbook-of-hidden-data-scientist/content/index.html)
+- [Learning R in Practice](http://jiayiliu.gitbooks.io/learning-r-in-practice/content/index.html)
+- [Gitbook with R Markdown](http://jbryer.gitbooks.io/rgitbook/content/index.html)
 
 **R Reference Cards, Guides & Cheatsheets**
 
