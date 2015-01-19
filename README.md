@@ -46,3 +46,7 @@ Statistical Learning](http://statweb.stanford.edu/~tibs/ElemStatLearn/)
 - [matplotlib](http://matplotlib.org)
 - [SciPy](http://www.scipy.org)
 - [NumPy](http://www.numpy.org)
+
+**Python Resources**
+
+- [Python Scientific Lecture Notes](http://scipy-lectures.github.io/index.html)
