@@ -36,6 +36,7 @@ Statistical Learning](http://statweb.stanford.edu/~tibs/ElemStatLearn/)
 )
 - [Shiny Cheatsheet](http://www.rstudio.com/wp-content/uploads/2015/02/shiny-cheatsheet.pdf)
 - [Devtools Cheatsheet](http://www.rstudio.com/wp-content/uploads/2015/03/devtools-cheatsheet.pdf)
+- [Visualization Cheatsheet](http://www.rstudio.com/wp-content/uploads/2015/03/ggplot2-cheatsheet.pdf)
 
 **Python**
 
