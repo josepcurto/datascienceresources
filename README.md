@@ -41,6 +41,7 @@ Statistical Learning](http://statweb.stanford.edu/~tibs/ElemStatLearn/)
 **Python**
 
 - [Python](https://www.python.org)
+- [Rodeo](https://www.yhat.com/products/rodeo)
 
 **Python Libraries**
 
@@ -54,3 +55,8 @@ Statistical Learning](http://statweb.stanford.edu/~tibs/ElemStatLearn/)
 **Python Resources**
 
 - [Python Scientific Lecture Notes](http://scipy-lectures.github.io/index.html)
+
+**Machine Learning**
+
+- [Tour of Machine Learning Algorithms](http://machinelearningmastery.com/a-tour-of-machine-learning-algorithms/)
+- [Evaluation of Deep Learning Toolkits](https://github.com/zer0n/deepframeworks)
