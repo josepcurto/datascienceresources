@@ -26,6 +26,7 @@ Statistical Learning](http://statweb.stanford.edu/~tibs/ElemStatLearn/)
 - [Handbook of Hidden Data Scientist](http://ondrej-kvasnovsky.gitbooks.io/handbook-of-hidden-data-scientist/content/index.html)
 - [Learning R in Practice](http://jiayiliu.gitbooks.io/learning-r-in-practice/content/index.html)
 - [Gitbook with R Markdown](http://jbryer.gitbooks.io/rgitbook/content/index.html)
+- [R-Statistics](http://r-statistics.co/)
 
 **R Reference Cards, Guides & Cheatsheets**
 
