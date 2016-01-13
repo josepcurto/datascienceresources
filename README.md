@@ -61,3 +61,8 @@ Statistical Learning](http://statweb.stanford.edu/~tibs/ElemStatLearn/)
 
 - [Tour of Machine Learning Algorithms](http://machinelearningmastery.com/a-tour-of-machine-learning-algorithms/)
 - [Evaluation of Deep Learning Toolkits](https://github.com/zer0n/deepframeworks)
+
+**Data Visualization**
+
+- [Data Visualisation Tools](http://keshif.me/demo/VisTools)
+- [Data Visualisation Books](http://keshif.me/demo/VisTools)
