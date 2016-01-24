@@ -88,3 +88,13 @@ Statistical Learning](http://statweb.stanford.edu/~tibs/ElemStatLearn/)
 - [UCI Network Data Repository](http://networkdata.ics.uci.edu/index.php)
 - [UC Irvine Machine Learning Repository](http://archive.ics.uci.edu/ml/)
 - [The Mondial Database](http://www.dbis.informatik.uni-goettingen.de/Mondial/)
+
+**Github Awesome List**
+
+- [Awesome Big Data](https://github.com/onurakpolat/awesome-bigdata)
+- [Awesome Data Science](https://github.com/okulbilisim/awesome-datascience)
+- [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
+- [Awesome Dataviz](https://github.com/fasouto/awesome-dataviz)
+- [Awesome python](https://github.com/vinta/awesome-python)
+- [Awesome R](https://github.com/qinwf/awesome-R)
+- [Awesome Public Datasets](https://github.com/caesar0301/awesome-public-datasets)
