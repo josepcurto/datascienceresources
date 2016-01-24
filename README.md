@@ -30,14 +30,15 @@ Statistical Learning](http://statweb.stanford.edu/~tibs/ElemStatLearn/)
 
 **R Reference Cards, Guides & Cheatsheets**
 
+- [RStudio IDE Cheatsheet](http://www.rstudio.com/wp-content/uploads/2016/01/rstudio-IDE-cheatsheet.pdf)
 - [R Reference Card](http://cran.r-project.org/doc/contrib/Short-refcard.pdf)
 - [Rmarkdown Reference Guide](http://www.rstudio.com/wp-content/uploads/2015/03/rmarkdown-reference.pdf)
 - [Rmarkdown Cheatsheet Guide](http://www.rstudio.com/wp-content/uploads/2015/02/rmarkdown-cheatsheet.pdf)
 - [Data Wrangling Cheatsheet](http://www.rstudio.com/wp-content/uploads/2015/02/data-wrangling-cheatsheet.pdf
 )
-- [Shiny Cheatsheet](http://www.rstudio.com/wp-content/uploads/2015/02/shiny-cheatsheet.pdf)
+- [Shiny Cheatsheet](http://www.rstudio.com/wp-content/uploads/2016/01/shiny-cheatsheet.pdf)
 - [Devtools Cheatsheet](http://www.rstudio.com/wp-content/uploads/2015/03/devtools-cheatsheet.pdf)
-- [Visualization Cheatsheet](http://www.rstudio.com/wp-content/uploads/2015/03/ggplot2-cheatsheet.pdf)
+- [Data Visualization Cheatsheet with ggplot2](http://www.rstudio.com/wp-content/uploads/2015/12/ggplot2-cheatsheet-2.0.pdf)
 
 **Python**
 
