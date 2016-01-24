@@ -68,7 +68,7 @@ Statistical Learning](http://statweb.stanford.edu/~tibs/ElemStatLearn/)
 - [Data Visualisation Tools](http://keshif.me/demo/VisTools)
 - [Data Visualisation Books](http://keshif.me/demo/VisTools)
 
-**Data Sets**
+**Datasets**
 
 - [Enigma](http://enigma.io/): 
 - [Kaggle Datasets](https://www.kaggle.com/datasets)
