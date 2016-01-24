@@ -66,3 +66,23 @@ Statistical Learning](http://statweb.stanford.edu/~tibs/ElemStatLearn/)
 
 - [Data Visualisation Tools](http://keshif.me/demo/VisTools)
 - [Data Visualisation Books](http://keshif.me/demo/VisTools)
+
+**Data Sets**
+
+- [Enigma](http://enigma.io/): 
+- [Kaggle Datasets](https://www.kaggle.com/datasets)
+- [Yahoo Datasets](https://webscope.sandbox.yahoo.com/)
+- [Million Songs Dataset](http://labrosa.ee.columbia.edu/millionsong/pages/getting-dataset)
+- [Open Football](https://openfootball.github.io/)
+- [Global Earthquake Archive](http://www.emidius.eu/GEH/)
+- [R Datasets](http://stat.ethz.ch/R-manual/R-patched/library/datasets/html/00Index.html)
+- [Rstudio Babynames](https://github.com/hadley/babynames)
+- [Rstudio  Fueleconomy](https://github.com/hadley/fueleconomy)
+- [Rstudio NASA Weather](https://github.com/hadley/nasaweather)
+- [Rstudio NYC Flights](https://github.com/hadley/nycflights13)
+- [DataMartker Time Series Data Library](https://datamarket.com/data/list/?q=provider:tsdl)
+- [Datasets from the book: A Handbook of Small Data Sets](http://www.stat.ncsu.edu/research/sas/sicl/data/)
+- [M&M Data](http://www.math.uah.edu/stat/data/MM.html)
+- [Marvel Universe Social Graph](http://exposedata.com/marvel/)
+- [UCI Network Data Repository](http://networkdata.ics.uci.edu/index.php)
+- [The Mondial Database](http://www.dbis.informatik.uni-goettingen.de/Mondial/)
