@@ -92,7 +92,10 @@ Statistical Learning](http://statweb.stanford.edu/~tibs/ElemStatLearn/)
 **Github Awesome List**
 
 - [Awesome Big Data](https://github.com/onurakpolat/awesome-bigdata)
+- [Awesome Big Data Ecosystem](https://github.com/zenkay/bigdata-ecosystem)
+- [Awesome Hadoop](https://github.com/youngwookim/awesome-hadoop)
 - [Awesome Data Science](https://github.com/okulbilisim/awesome-datascience)
+- [Awesome Analytics](https://github.com/onurakpolat/awesome-analytics)
 - [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
 - [Awesome Dataviz](https://github.com/fasouto/awesome-dataviz)
 - [Awesome python](https://github.com/vinta/awesome-python)
