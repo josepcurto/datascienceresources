@@ -88,6 +88,11 @@ Statistical Learning](http://statweb.stanford.edu/~tibs/ElemStatLearn/)
 - [UCI Network Data Repository](http://networkdata.ics.uci.edu/index.php)
 - [UC Irvine Machine Learning Repository](http://archive.ics.uci.edu/ml/)
 - [The Mondial Database](http://www.dbis.informatik.uni-goettingen.de/Mondial/)
+- [Europa Open Data](http://open-data.europa.eu/es/data/)
+- [USA Data Gov](http://www.data.gov/)
+- [Facebook Graph API](https://developers.facebook.com/docs/graph-api)
+- [Quandl](https://www.quandl.com/help/getting-started)
+- [Dbpedia](http://wiki.dbpedia.org)
 
 **Github Awesome List**
 
