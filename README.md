@@ -93,6 +93,7 @@ Statistical Learning](http://statweb.stanford.edu/~tibs/ElemStatLearn/)
 - [Facebook Graph API](https://developers.facebook.com/docs/graph-api)
 - [Quandl](https://www.quandl.com/help/getting-started)
 - [Dbpedia](http://wiki.dbpedia.org)
+- [Stanford Large Network Dataset Collection](http://snap.stanford.edu/data/index.html)
 
 **Github Awesome List**
 
