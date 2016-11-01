@@ -94,6 +94,16 @@ Statistical Learning](http://statweb.stanford.edu/~tibs/ElemStatLearn/)
 - [Quandl](https://www.quandl.com/help/getting-started)
 - [Dbpedia](http://wiki.dbpedia.org)
 - [Stanford Large Network Dataset Collection](http://snap.stanford.edu/data/index.html)
+- [UCI ML Repository](https://archive.ics.uci.edu/ml/index.html)
+- [Reddit Datasets](https://www.reddit.com/r/datasets)
+- [The Stanford Question Answering Dataset](https://stanford-qa.com/)
+- [Trump Speeches](https://github.com/ryanmcdermott/trump-speeches)
+- [LAMBADA Dataset](http://clic.cimec.unitn.it/lambada/)
+- [University of Edinburugh - School of Informatics - Data Mining datsets](http://www.inf.ed.ac.uk/teaching/courses/dme/html/datasets0405.html)
+- [Time Series Data Library - Data Market](https://datamarket.com/data/list/?q=provider:tsdl)
+- [Data for Everyone - Crowdflower](https://www.crowdflower.com/data-for-everyone/)
+- [Datasets from MILA Lab - University of Montreal, Canada](https://mila.umontreal.ca/en/publications/public-datasets/)
+- [Open Data Stack Exchange](http://opendata.stackexchange.com)
 
 **Github Awesome List**
 
