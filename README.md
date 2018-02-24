@@ -3,32 +3,34 @@ Resources for Data Science
 
 Do you want to become a data scientist using R or Python? These are some of the resources that will help you.
 
-**R Programs**
+## R
+
+### Programs
 
 - [RStudio](www.rstudio.com)
 - [R](www.r-project.org)
+- [Dataiku](https://www.dataiku.com)
 
-**R resources**
+### Resources
 
 - [R-bloggers](http://www.r-bloggers.com)
 - [Togaware](http://onepager.togaware.com)
 - [R and Datamining](http://www.rdatamining.com/)
+- [Awesome R](https://awesome-r.com)
 
-**R Books**
+### Books
 
 - [Advance R](http://adv-r.had.co.nz/)
 - [Cookbook for R](http://www.cookbook-r.com/)
 - [R Packages](http://r-pkgs.had.co.nz/)
 - [Learn R](http://renkun.me/learnR)
 - [Reproducible Research](http://christophergandrud.github.io/RepResR-RStudio/)
-- [The Elements of 
-Statistical Learning](http://statweb.stanford.edu/~tibs/ElemStatLearn/)
 - [Handbook of Hidden Data Scientist](http://ondrej-kvasnovsky.gitbooks.io/handbook-of-hidden-data-scientist/content/index.html)
 - [Learning R in Practice](http://jiayiliu.gitbooks.io/learning-r-in-practice/content/index.html)
 - [Gitbook with R Markdown](http://jbryer.gitbooks.io/rgitbook/content/index.html)
 - [R-Statistics](http://r-statistics.co/)
 
-**R Reference Cards, Guides & Cheatsheets**
+### Reference Cards, Guides & Cheatsheets
 
 - [RStudio IDE Cheatsheet](http://www.rstudio.com/wp-content/uploads/2016/01/rstudio-IDE-cheatsheet.pdf)
 - [R Reference Card](http://cran.r-project.org/doc/contrib/Short-refcard.pdf)
@@ -40,12 +42,14 @@ Statistical Learning](http://statweb.stanford.edu/~tibs/ElemStatLearn/)
 - [Devtools Cheatsheet](http://www.rstudio.com/wp-content/uploads/2015/03/devtools-cheatsheet.pdf)
 - [Data Visualization Cheatsheet with ggplot2](http://www.rstudio.com/wp-content/uploads/2015/12/ggplot2-cheatsheet-2.0.pdf)
 
-**Python**
+## Python
 
 - [Python](https://www.python.org)
 - [Rodeo](https://www.yhat.com/products/rodeo)
+- [Dataiku](https://www.dataiku.com)
+- [Anaconda](https://www.anaconda.com)
 
-**Python Libraries**
+### Libraries
 
 - [Pandas](http://pandas.pydata.org/)
 - [scikit-learn](http://scikit-learn.org)
@@ -54,21 +58,37 @@ Statistical Learning](http://statweb.stanford.edu/~tibs/ElemStatLearn/)
 - [SciPy](http://www.scipy.org)
 - [NumPy](http://www.numpy.org)
 
-**Python Resources**
+### Resources
 
 - [Python Scientific Lecture Notes](http://scipy-lectures.github.io/index.html)
+- [Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook)
 
-**Machine Learning**
+## General
+
+### Courses
+
+- [UCL Course on RL](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html) 
+
+### Books
+
+- [Foundations of Data Science](https://www.cs.cornell.edu/jeh/book.pdf)
+- [The Elements of 
+Statistical Learning](http://statweb.stanford.edu/~tibs/ElemStatLearn/)
+- [Goodfellow et al. 2016. Deep Learning. MIT Press](http://www.deeplearningbook.org)
+- [Stephen Boyd and Lieven Vandenberghe. 2014. Convex Optimization. Cambridge University Press](http://stanford.edu/~boyd/cvxbook/)
+- [Allen B. 2012. Downey. Think Bayes. O'Reilly](http://greenteapress.com/wp/think-bayes/)
+- [Intuitive ML and Big Data in C++, Scala, Java and Python](http://www.kareemalkaseer.com/books/ml)
+
+### Machine Learning
 
 - [Tour of Machine Learning Algorithms](http://machinelearningmastery.com/a-tour-of-machine-learning-algorithms/)
 - [Evaluation of Deep Learning Toolkits](https://github.com/zer0n/deepframeworks)
 
-**Data Visualization**
+### Data Visualization
 
 - [Data Visualisation Tools](http://keshif.me/demo/VisTools)
-- [Data Visualisation Books](http://keshif.me/demo/VisTools)
 
-**Datasets**
+### Datasets
 
 - [Enigma](http://enigma.io/): 
 - [Kaggle Datasets](https://www.kaggle.com/datasets)
@@ -105,8 +125,9 @@ Statistical Learning](http://statweb.stanford.edu/~tibs/ElemStatLearn/)
 - [Datasets from MILA Lab - University of Montreal, Canada](https://mila.umontreal.ca/en/publications/public-datasets/)
 - [Open Data Stack Exchange](http://opendata.stackexchange.com)
 
-**Github Awesome List**
+### Awesome Lists
 
+- [Pretty Awesome Lists](https://www.prettyawesomelists.com)
 - [Awesome Big Data](https://github.com/onurakpolat/awesome-bigdata)
 - [Awesome Big Data Ecosystem](https://github.com/zenkay/bigdata-ecosystem)
 - [Awesome Hadoop](https://github.com/youngwookim/awesome-hadoop)

@@ -16,4 +16,4 @@ install.packages("radiant")
 suppressPackageStartupMessages(library(devtools)) #Compile packages
 suppressPackageStartupMessages(library(clusterCrit)) #Clustering indices
 suppressPackageStartupMessages(library(rvest)) # Web Scrapping
-suppressPackageStartupMessages(library(radiant)) # Exploration Analysis
+suppressPackageStartupMessages(library(radiant)) # Business Analytics
