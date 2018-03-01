@@ -67,7 +67,8 @@ Do you want to become a data scientist using R or Python? These are some of the 
 
 ### Courses
 
-- [UCL Course on RL](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html) 
+- [UCL Course on RL](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html)
+- [Learn with Google AI](https://ai.google/education/#?modal_active=none)
 
 ### Books
 
