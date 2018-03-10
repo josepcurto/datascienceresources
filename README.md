@@ -91,7 +91,7 @@ Statistical Learning](http://statweb.stanford.edu/~tibs/ElemStatLearn/)
 
 ### Datasets
 
-- [Enigma](http://enigma.io/): 
+- [Enigma](http://enigma.io/)
 - [Kaggle Datasets](https://www.kaggle.com/datasets)
 - [Yahoo Datasets](https://webscope.sandbox.yahoo.com/)
 - [Million Songs Dataset](http://labrosa.ee.columbia.edu/millionsong/pages/getting-dataset)
