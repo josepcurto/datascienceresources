@@ -125,6 +125,7 @@ Statistical Learning](http://statweb.stanford.edu/~tibs/ElemStatLearn/)
 - [Data for Everyone - Crowdflower](https://www.crowdflower.com/data-for-everyone/)
 - [Datasets from MILA Lab - University of Montreal, Canada](https://mila.umontreal.ca/en/publications/public-datasets/)
 - [Open Data Stack Exchange](http://opendata.stackexchange.com)
+- [dslabs package](https://cran.r-project.org/web/packages/dslabs/index.html)
 
 ### Awesome Lists
 
