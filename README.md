@@ -29,6 +29,8 @@ Do you want to become a data scientist using R or Python? These are some of the 
 - [Learning R in Practice](http://jiayiliu.gitbooks.io/learning-r-in-practice/content/index.html)
 - [Gitbook with R Markdown](http://jbryer.gitbooks.io/rgitbook/content/index.html)
 - [R-Statistics](http://r-statistics.co/)
+- [Efficient R Programming](https://bookdown.org/csgillespie/efficientR/)
+- [The tidyverse style guide](http://style.tidyverse.org)
 
 ### Reference Cards, Guides & Cheatsheets
 
