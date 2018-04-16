@@ -11,6 +11,36 @@ Do you want to become a data scientist using R or Python? These are some of the 
 - [R](www.r-project.org)
 - [Dataiku](https://www.dataiku.com)
 
+### Learning R with 'swirl'
+
+With the swirl R package you can learn R programming and data science. Open RStudio  and type the following into the console:
+
+```
+install.packages("swirl")
+```
+
+Then load the package:
+
+```
+library(swirl)
+```
+
+For newbies we recommend the course "R Programming":
+
+```
+install_course("R Programming")
+swirl()
+```
+Then you can continue wiht other courses for data cleasning, exploratory data analysis, statistics and data analysis.
+Podéis profundizar después con:
+
+```
+install_course("Getting_and_Cleaning_Data")
+install_course("Exploratory_Data_Analysis")
+install_course("Open_Intro/Overview_of_Statistics")
+install_course("Data_Analysis")
+```
+
 ### Resources
 
 - [R-bloggers](http://www.r-bloggers.com)
