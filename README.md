@@ -111,6 +111,8 @@ Statistical Learning](http://statweb.stanford.edu/~tibs/ElemStatLearn/)
 - [Stephen Boyd and Lieven Vandenberghe. 2014. Convex Optimization. Cambridge University Press](http://stanford.edu/~boyd/cvxbook/)
 - [Allen B. 2012. Downey. Think Bayes. O'Reilly](http://greenteapress.com/wp/think-bayes/)
 - [Intuitive ML and Big Data in C++, Scala, Java and Python](http://www.kareemalkaseer.com/books/ml)
+- [The Little Book of LDA](https://ldabook.com)
+- [Data Science Live Book](https://livebook.datascienceheroes.com)
 
 ### Machine Learning
 
