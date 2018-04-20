@@ -174,3 +174,10 @@ Statistical Learning](http://statweb.stanford.edu/~tibs/ElemStatLearn/)
 - [Awesome python](https://github.com/vinta/awesome-python)
 - [Awesome R](https://github.com/qinwf/awesome-R)
 - [Awesome Public Datasets](https://github.com/caesar0301/awesome-public-datasets)
+
+### Blogs and podcast
+
+- [Linear digressions](http://lineardigressions.com)
+- [No So Standard deviations](http://nssdeviations.com)
+- [Data Skeptic](https://dataskeptic.com)
+- [Apple Machine Learning Journal](https://machinelearning.apple.com)
