@@ -45,21 +45,26 @@ install_course("Data_Analysis")
 
 - [R-bloggers](http://www.r-bloggers.com)
 - [Togaware](http://onepager.togaware.com)
-- [R and Datamining](http://www.rdatamining.com/)
+- [R and Datamining](http://www.rdatamining.com)
 - [Awesome R](https://awesome-r.com)
+
+### Interesting packages
+
+- [Rdimtools: Dimension Reduction and Estimation Methods](https://cran.r-project.org/web/packages/Rdimtools/index.html)
+- [lime: Local Interpretable Model-Agnostic Explanations](https://cran.r-project.org/web/packages/lime/index.html)
 
 ### Books
 
-- [Advance R](http://adv-r.had.co.nz/)
-- [Cookbook for R](http://www.cookbook-r.com/)
-- [R Packages](http://r-pkgs.had.co.nz/)
+- [Advance R](http://adv-r.had.co.nz)
+- [Cookbook for R](http://www.cookbook-r.com)
+- [R Packages](http://r-pkgs.had.co.nz)
 - [Learn R](http://renkun.me/learnR)
-- [Reproducible Research](http://christophergandrud.github.io/RepResR-RStudio/)
+- [Reproducible Research](http://christophergandrud.github.io/RepResR-RStudio)
 - [Handbook of Hidden Data Scientist](http://ondrej-kvasnovsky.gitbooks.io/handbook-of-hidden-data-scientist/content/index.html)
 - [Learning R in Practice](http://jiayiliu.gitbooks.io/learning-r-in-practice/content/index.html)
 - [Gitbook with R Markdown](http://jbryer.gitbooks.io/rgitbook/content/index.html)
-- [R-Statistics](http://r-statistics.co/)
-- [Efficient R Programming](https://bookdown.org/csgillespie/efficientR/)
+- [R-Statistics](http://r-statistics.co)
+- [Efficient R Programming](https://bookdown.org/csgillespie/efficientR)
 - [The tidyverse style guide](http://style.tidyverse.org)
 
 ### Reference Cards, Guides & Cheatsheets
@@ -118,6 +123,7 @@ Statistical Learning](http://statweb.stanford.edu/~tibs/ElemStatLearn/)
 
 - [Tour of Machine Learning Algorithms](http://machinelearningmastery.com/a-tour-of-machine-learning-algorithms/)
 - [Evaluation of Deep Learning Toolkits](https://github.com/zer0n/deepframeworks)
+- [List of recommender systems](https://github.com/grahamjenson/list_of_recommender_systems)
 
 ### Data Visualization
 
