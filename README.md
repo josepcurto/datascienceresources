@@ -129,7 +129,7 @@ Statistical Learning](http://statweb.stanford.edu/~tibs/ElemStatLearn/)
 
 - [Data Visualisation Tools](http://keshif.me/demo/VisTools)
 
-### Datasets
+### Data Sets
 
 - [Enigma](http://enigma.io/)
 - [Kaggle Datasets](https://www.kaggle.com/datasets)
@@ -166,6 +166,7 @@ Statistical Learning](http://statweb.stanford.edu/~tibs/ElemStatLearn/)
 - [Datasets from MILA Lab - University of Montreal, Canada](https://mila.umontreal.ca/en/publications/public-datasets/)
 - [Open Data Stack Exchange](http://opendata.stackexchange.com)
 - [dslabs package](https://cran.r-project.org/web/packages/dslabs/index.html)
+- [The Tate Collection](https://github.com/tategallery/collection)
 
 ### Awesome Lists
 
