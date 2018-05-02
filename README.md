@@ -94,6 +94,7 @@ install_course("Data_Analysis")
 - [matplotlib](http://matplotlib.org)
 - [SciPy](http://www.scipy.org)
 - [NumPy](http://www.numpy.org)
+- [PyTorch](https://pytorch.org)
 
 ### Resources
 
