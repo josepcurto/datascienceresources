@@ -52,6 +52,7 @@ install_course("Data_Analysis")
 
 - [Rdimtools: Dimension Reduction and Estimation Methods](https://cran.r-project.org/web/packages/Rdimtools/index.html)
 - [lime: Local Interpretable Model-Agnostic Explanations](https://cran.r-project.org/web/packages/lime/index.html)
+- [caret: Classification and Regression Training](https://cran.r-project.org/web/packages/caret/index.html) and a book for  [The caret Package](https://topepo.github.io/caret/index.html)
 
 ### Books
 
