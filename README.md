@@ -120,6 +120,7 @@ Statistical Learning](http://statweb.stanford.edu/~tibs/ElemStatLearn/)
 - [Intuitive ML and Big Data in C++, Scala, Java and Python](http://www.kareemalkaseer.com/books/ml)
 - [The Little Book of LDA](https://ldabook.com)
 - [Data Science Live Book](https://livebook.datascienceheroes.com)
+- [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/)
 
 ### Machine Learning
 
