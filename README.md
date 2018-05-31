@@ -127,6 +127,7 @@ Statistical Learning](http://statweb.stanford.edu/~tibs/ElemStatLearn/)
 - [Tour of Machine Learning Algorithms](http://machinelearningmastery.com/a-tour-of-machine-learning-algorithms/)
 - [Evaluation of Deep Learning Toolkits](https://github.com/zer0n/deepframeworks)
 - [List of recommender systems](https://github.com/grahamjenson/list_of_recommender_systems)
+- [Interactive Periodic Table of Machine Learning Libraries](http://www.mln.io/resources/periodic-table/)
 
 ### Data Visualization
 
