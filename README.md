@@ -95,6 +95,7 @@ install_course("Data_Analysis")
 - [SciPy](http://www.scipy.org)
 - [NumPy](http://www.numpy.org)
 - [PyTorch](https://pytorch.org)
+- [Dask](https://dask.pydata.org)
 
 ### Resources
 
@@ -120,6 +121,7 @@ Statistical Learning](http://statweb.stanford.edu/~tibs/ElemStatLearn/)
 - [The Little Book of LDA](https://ldabook.com)
 - [Data Science Live Book](https://livebook.datascienceheroes.com)
 - [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/)
+- [Data Science for Startups](https://bgweber.github.io)
 
 ### Machine Learning
 
