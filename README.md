@@ -113,7 +113,7 @@ install_course("Data_Analysis")
 
 - [Foundations of Data Science](https://www.cs.cornell.edu/jeh/book.pdf)
 - [The Elements of 
-Statistical Learning](http://statweb.stanford.edu/~tibs/ElemStatLearn/)
+Statistical Learning](https://web.stanford.edu/~hastie/Papers/ESLII.pdf)
 - [Goodfellow et al. 2016. Deep Learning. MIT Press](http://www.deeplearningbook.org)
 - [Stephen Boyd and Lieven Vandenberghe. 2014. Convex Optimization. Cambridge University Press](http://stanford.edu/~boyd/cvxbook/)
 - [Allen B. 2012. Downey. Think Bayes. O'Reilly](http://greenteapress.com/wp/think-bayes/)
