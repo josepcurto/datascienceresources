@@ -129,6 +129,8 @@ Statistical Learning](https://web.stanford.edu/~hastie/Papers/ESLII.pdf)
 - [Evaluation of Deep Learning Toolkits](https://github.com/zer0n/deepframeworks)
 - [List of recommender systems](https://github.com/grahamjenson/list_of_recommender_systems)
 - [Interactive Periodic Table of Machine Learning Libraries](http://www.mln.io/resources/periodic-table/)
+- [Google's Seedbank](http://tools.google.com/seedbank/)
+- [Google's Distill](https://distill.pub)
 
 ### Data Visualization
 
