@@ -51,8 +51,13 @@ install_course("Data_Analysis")
 ### Interesting packages
 
 - [Rdimtools: Dimension Reduction and Estimation Methods](https://cran.r-project.org/web/packages/Rdimtools/index.html)
-- [lime: Local Interpretable Model-Agnostic Explanations](https://cran.r-project.org/web/packages/lime/index.html)
+- [mlr: Machine Learning in R](https://cran.r-project.org/web/packages/mlr/index.html)
 - [caret: Classification and Regression Training](https://cran.r-project.org/web/packages/caret/index.html), a book for  [The caret Package](https://topepo.github.io/caret/index.html) and [caretEnsemble: Ensembles of Caret Models](https://cran.r-project.org/web/packages/caretEnsemble/)
+- [lime: Local Interpretable Model-Agnostic Explanations](https://cran.r-project.org/web/packages/lime/index.html)
+- [ShapleyR](https://github.com/redichh/ShapleyR)
+- [breakDown: Model Agnostic Explainers for Individual Predictions](https://cran.r-project.org/web/packages/breakDown/index.html) and https://pbiecek.github.io/breakDown/
+- [DALEX: Descriptive mAchine Learning EXplanations](https://github.com/pbiecek/DALEX) and https://pbiecek.github.io/DALEX_docs/
+- [ceterisParibus](https://github.com/pbiecek/ceterisParibus) and https://pbiecek.github.io/ceterisParibus/index.html
 
 ### Books
 
@@ -96,6 +101,10 @@ install_course("Data_Analysis")
 - [NumPy](http://www.numpy.org)
 - [PyTorch](https://pytorch.org)
 - [Dask](https://dask.pydata.org)
+
+## Julia
+
+ - [Julia](https://julialang.org)
 
 ### Resources
 
