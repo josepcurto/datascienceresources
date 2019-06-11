@@ -87,7 +87,6 @@ install_course("Data_Analysis")
 ## Python
 
 - [Python](https://www.python.org)
-- [Rodeo](https://www.yhat.com/products/rodeo)
 - [Dataiku](https://www.dataiku.com)
 - [Anaconda](https://www.anaconda.com)
 
