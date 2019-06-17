@@ -183,6 +183,7 @@ Statistical Learning](https://web.stanford.edu/~hastie/Papers/ESLII.pdf)
 - [Open Data Stack Exchange](http://opendata.stackexchange.com)
 - [dslabs package](https://cran.r-project.org/web/packages/dslabs/index.html)
 - [The Tate Collection](https://github.com/tategallery/collection)
+- [Data Portals](http://dataportals.org)
 
 ### Awesome Lists
 
