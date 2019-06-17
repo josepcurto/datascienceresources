@@ -116,6 +116,7 @@ install_course("Data_Analysis")
 
 - [UCL Course on RL](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html)
 - [Learn with Google AI](https://ai.google/education/#?modal_active=none)
+- [Deep Learning Models](https://github.com/rasbt/deeplearning-models)
 
 ### Books
 
