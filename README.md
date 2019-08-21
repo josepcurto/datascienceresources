@@ -61,15 +61,16 @@ install_course("Data_Analysis")
 
 ### Books
 
-- [Advance R](http://adv-r.had.co.nz)
+- [R-Statistics](http://r-statistics.co)
 - [Cookbook for R](http://www.cookbook-r.com)
+- [Advance R](http://adv-r.had.co.nz)
 - [R Packages](http://r-pkgs.had.co.nz)
 - [Reproducible Research](http://christophergandrud.github.io/RepResR-RStudio)
 - [Handbook of Hidden Data Scientist](http://ondrej-kvasnovsky.gitbooks.io/handbook-of-hidden-data-scientist/content/index.html)
 - [Learning R in Practice](http://jiayiliu.gitbooks.io/learning-r-in-practice/content/index.html)
 - [Gitbook with R Markdown](http://jbryer.gitbooks.io/rgitbook/content/index.html)
-- [R-Statistics](http://r-statistics.co)
 - [Efficient R Programming](https://bookdown.org/csgillespie/efficientR)
+- [Open Forensic Science in R](https://sctyner.github.io/OpenForSciR/)
 - [The tidyverse style guide](http://style.tidyverse.org)
 
 ### Reference Cards, Guides & Cheatsheets
