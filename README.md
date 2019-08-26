@@ -61,6 +61,7 @@ install_course("Data_Analysis")
 
 ### Books
 
+- [Statistical Thinking for the 21st Century](http://statsthinking21.org/index.html)
 - [R-Statistics](http://r-statistics.co)
 - [Cookbook for R](http://www.cookbook-r.com)
 - [Advance R](http://adv-r.had.co.nz)
