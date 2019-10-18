@@ -123,6 +123,7 @@ install_course("Data_Analysis")
 
 ### Books
 
+- [Mathematics For Machine Learning](https://github.com/mml-book/mml-book.github.io)
 - [Foundations of Data Science](https://www.cs.cornell.edu/jeh/book.pdf)
 - [The Elements of 
 Statistical Learning](https://web.stanford.edu/~hastie/Papers/ESLII.pdf)
