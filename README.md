@@ -73,6 +73,7 @@ install_course("Data_Analysis")
 - [Efficient R Programming](https://bookdown.org/csgillespie/efficientR)
 - [Open Forensic Science in R](https://sctyner.github.io/OpenForSciR/)
 - [The tidyverse style guide](http://style.tidyverse.org)
+- [Feature Engineering and Selection: A Practical Approach for Predictive Models](http://www.feat.engineering/index.html)
 
 ### Reference Cards, Guides & Cheatsheets
 
