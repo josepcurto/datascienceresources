@@ -6,10 +6,10 @@ Do you want to become a data scientist using R or Python? These are some of the 
 ## Programs
 
 | Engine | Recommended GUI | Alternative |
---- | --- |
+| --- | --- | --- |
 | [R](www.r-project.org) |[RStudio](www.rstudio.com)| [Dataiku](https://www.dataiku.com) |
 | [Python](https://www.python.org) | [Anaconda](https://www.anaconda.com) | [Dataiku](https://www.dataiku.com) |
-| [[Julia](https://julialang.org) | [Anaconda](https://www.anaconda.com) | [Dataiku](https://www.dataiku.com) |
+| [Julia](https://julialang.org) | [Anaconda](https://www.anaconda.com) | [Dataiku](https://www.dataiku.com) |
 
 ### Learning R with 'swirl'
 
