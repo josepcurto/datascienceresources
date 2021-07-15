@@ -1,7 +1,7 @@
 Resources for Data Science
 ================
 
-Do you want to become a data scientist using R or Python? These are some of the resources that will help you.
+Do you want to become a data scientist using R, Python or Julia? These are some of the resources that will help you.
 
 ## Programs
 
