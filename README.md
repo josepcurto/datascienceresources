@@ -3,13 +3,20 @@ Resources for Data Science
 
 Do you want to become a data scientist using R, Python or Julia? These are some of the resources that will help you.
 
-## Programs
+# Engines & IDEs
 
-| Engine | Recommended GUI | Alternative |
+| Engine | Recommended IDE | Alternative IDEs |
 | --- | --- | --- |
 | [R](www.r-project.org) |[RStudio](www.rstudio.com)| [Dataiku](https://www.dataiku.com) |
 | [Python](https://www.python.org) | [Anaconda](https://www.anaconda.com) | [Dataiku](https://www.dataiku.com) |
-| [Julia](https://julialang.org) | [Anaconda](https://www.anaconda.com) | [Dataiku](https://www.dataiku.com) |
+| [Julia](https://julialang.org) | [Jupyter Notebook](https://jupyter.org) | [Dataiku](https://www.dataiku.com),  [Anaconda](https://www.anaconda.com) |
+
+# Resources
+
+| Engine | Webs | Books
+| --- | --- | --- |
+| R | [R-bloggers](http://www.r-bloggers.com)<br />[Togaware](http://onepager.togaware.com)<br />[R and Datamining](http://www.rdatamining.com)<br />[Awesome R](https://awesome-r.com) | [R-Statistics](http://r-statistics.co)<br />[Cookbook for R](http://www.cookbook-r.com)<br />[Advance R](http://adv-r.had.co.nz)<br />[R Packages](http://r-pkgs.had.co.nz)<br />[Reproducible Research](http://christophergandrud.github.io/RepResR-RStudio)<br />[Learning R in Practice](http://jiayiliu.gitbooks.io/learning-r-in-practice/content/index.html)<br />[Gitbook with R Markdown](http://jbryer.gitbooks.io/rgitbook/content/index.html)<br />[Efficient R Programming](https://bookdown.org/csgillespie/efficientR)<br />[Open Forensic Science in R](https://sctyner.github.io/OpenForSciR/)<br />[The tidyverse style guide](http://style.tidyverse.org)<br />[Feature Engineering and Selection: A Practical Approach for Predictive Models](http://www.feat.engineering/index.html)<br />[Mastering Shiny](https://mastering-shiny.org/index.html)<br />[R for data science](https://r4ds.had.co.nz) and [solutions](https://jrnold.github.io/r4ds-exercise-solutions/)<br />[Hands-On Programming with R](https://rstudio-education.github.io/hopr/) |
+
 
 ### Learning R with 'swirl'
 
@@ -41,13 +48,6 @@ install_course("Open_Intro/Overview_of_Statistics")
 install_course("Data_Analysis")
 ```
 
-### Resources
-
-- [R-bloggers](http://www.r-bloggers.com)
-- [Togaware](http://onepager.togaware.com)
-- [R and Datamining](http://www.rdatamining.com)
-- [Awesome R](https://awesome-r.com)
-
 ### Interesting packages
 
 - [Rdimtools: Dimension Reduction and Estimation Methods](https://cran.r-project.org/web/packages/Rdimtools/index.html)
@@ -61,22 +61,12 @@ install_course("Data_Analysis")
 
 ### Books
 
+
+
 - [Statistical Thinking for the 21st Century](http://statsthinking21.org/index.html)
-- [R-Statistics](http://r-statistics.co)
-- [Cookbook for R](http://www.cookbook-r.com)
-- [Advance R](http://adv-r.had.co.nz)
-- [R Packages](http://r-pkgs.had.co.nz)
-- [Reproducible Research](http://christophergandrud.github.io/RepResR-RStudio)
+
 - [Handbook of Hidden Data Scientist](http://ondrej-kvasnovsky.gitbooks.io/handbook-of-hidden-data-scientist/content/index.html)
-- [Learning R in Practice](http://jiayiliu.gitbooks.io/learning-r-in-practice/content/index.html)
-- [Gitbook with R Markdown](http://jbryer.gitbooks.io/rgitbook/content/index.html)
-- [Efficient R Programming](https://bookdown.org/csgillespie/efficientR)
-- [Open Forensic Science in R](https://sctyner.github.io/OpenForSciR/)
-- [The tidyverse style guide](http://style.tidyverse.org)
-- [Feature Engineering and Selection: A Practical Approach for Predictive Models](http://www.feat.engineering/index.html)
-- [Mastering Shiny](https://mastering-shiny.org/index.html)
-- [R for data science](https://r4ds.had.co.nz) and [solutions](https://jrnold.github.io/r4ds-exercise-solutions/)
-- [Hands-On Programming with R](https://rstudio-education.github.io/hopr/)
+
 
 ### Reference Cards, Guides & Cheatsheets
 
