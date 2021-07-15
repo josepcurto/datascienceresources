@@ -3,13 +3,13 @@ Resources for Data Science
 
 Do you want to become a data scientist using R or Python? These are some of the resources that will help you.
 
-## R
+## Programs
 
-### Programs
-
-- [RStudio](www.rstudio.com)
-- [R](www.r-project.org)
-- [Dataiku](https://www.dataiku.com)
+| Engine | Recommended GUI | Alternative |
+--- | --- |
+| [R](www.r-project.org) |[RStudio](www.rstudio.com)| [Dataiku](https://www.dataiku.com) |
+| [Python](https://www.python.org) | [Anaconda](https://www.anaconda.com) | [Dataiku](https://www.dataiku.com) |
+| [[Julia](https://julialang.org) | [Anaconda](https://www.anaconda.com) | [Dataiku](https://www.dataiku.com) |
 
 ### Learning R with 'swirl'
 
@@ -90,12 +90,6 @@ install_course("Data_Analysis")
 - [Devtools Cheatsheet](http://www.rstudio.com/wp-content/uploads/2015/03/devtools-cheatsheet.pdf)
 - [Data Visualization Cheatsheet with ggplot2](http://www.rstudio.com/wp-content/uploads/2015/12/ggplot2-cheatsheet-2.0.pdf)
 
-## Python
-
-- [Python](https://www.python.org)
-- [Dataiku](https://www.dataiku.com)
-- [Anaconda](https://www.anaconda.com)
-
 ### Libraries
 
 - [Pandas](http://pandas.pydata.org/)
@@ -106,10 +100,6 @@ install_course("Data_Analysis")
 - [NumPy](http://www.numpy.org)
 - [PyTorch](https://pytorch.org)
 - [Dask](https://dask.pydata.org)
-
-## Julia
-
- - [Julia](https://julialang.org)
 
 ### Resources
 
@@ -208,7 +198,6 @@ Statistical Learning](https://web.stanford.edu/~hastie/Papers/ESLII.pdf)
 
 ### Blogs and podcast
 
-- [Linear digressions](http://lineardigressions.com)
 - [No So Standard deviations](http://nssdeviations.com)
 - [Data Skeptic](https://dataskeptic.com)
 - [Apple Machine Learning Journal](https://machinelearning.apple.com)
