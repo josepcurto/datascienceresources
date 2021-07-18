@@ -17,8 +17,8 @@ Do you want to become a data scientist using R, Python or Julia? These are some 
 | --- | --- | --- |
 | Statistics |  | [The Elements of Statistical Learning](https://web.stanford.edu/~hastie/Papers/ESLII.pdf)<br />[Statistical Thinking for the 21st Century](http://statsthinking21.org/index.html) |
 | Mathematics |  | [Mathematics For Machine Learning](https://github.com/mml-book/mml-book.github.io) |
-| Data Science |  | [Foundations of Data Science](https://www.cs.cornell.edu/jeh/book.pdf) |
-| Deep Learning | [Deep Learning Models](https://github.com/rasbt/deeplearning-models) | --- |
+| Data Science |  | [Foundations of Data Science](https://www.cs.cornell.edu/jeh/book.pdf)<br />[Data Science for Startups](https://bgweber.github.io) |
+| Deep Learning | [Deep Learning Models](https://github.com/rasbt/deeplearning-models) | [Goodfellow et al. 2016. Deep Learning. MIT Press](http://www.deeplearningbook.org) |
 | [R](www.r-project.org) | [R-bloggers](http://www.r-bloggers.com)<br />[Togaware](http://onepager.togaware.com)<br />[R and Datamining](http://www.rdatamining.com)<br />[Awesome R](https://awesome-r.com) | [R-Statistics](http://r-statistics.co)<br />[Cookbook for R](http://www.cookbook-r.com)<br />[Advance R](http://adv-r.had.co.nz)<br />[R Packages](http://r-pkgs.had.co.nz)<br />[Reproducible Research](http://christophergandrud.github.io/RepResR-RStudio)<br />[Learning R in Practice](http://jiayiliu.gitbooks.io/learning-r-in-practice/content/index.html)<br />[Gitbook with R Markdown](http://jbryer.gitbooks.io/rgitbook/content/index.html)<br />[Efficient R Programming](https://bookdown.org/csgillespie/efficientR)<br />[Open Forensic Science in R](https://sctyner.github.io/OpenForSciR/)<br />[The tidyverse style guide](http://style.tidyverse.org)<br />[Feature Engineering and Selection: A Practical Approach for Predictive Models](http://www.feat.engineering/index.html)<br />[Mastering Shiny](https://mastering-shiny.org/index.html)<br />[R for data science](https://r4ds.had.co.nz) and [solutions](https://jrnold.github.io/r4ds-exercise-solutions/)<br />[Hands-On Programming with R](https://rstudio-education.github.io/hopr/) |
 | [Python](https://www.python.org) | [W3schools Python](https://www.w3schools.com/python/default.asp)<br />[Python Scientific Lecture Notes](http://scipy-lectures.github.io/index.html) | [Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook) |
 
@@ -105,14 +105,12 @@ install_course("Data_Analysis")
 
 ### Books
 
-- [Goodfellow et al. 2016. Deep Learning. MIT Press](http://www.deeplearningbook.org)
 - [Stephen Boyd and Lieven Vandenberghe. 2014. Convex Optimization. Cambridge University Press](http://stanford.edu/~boyd/cvxbook/)
 - [Allen B. 2012. Downey. Think Bayes. O'Reilly](http://greenteapress.com/wp/think-bayes/)
 - [Intuitive ML and Big Data in C++, Scala, Java and Python](http://www.kareemalkaseer.com/books/ml)
 - [The Little Book of LDA](https://ldabook.com)
 - [Data Science Live Book](https://livebook.datascienceheroes.com)
 - [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/)
-- [Data Science for Startups](https://bgweber.github.io)
 
 ### Machine Learning
 
