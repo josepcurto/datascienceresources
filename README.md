@@ -15,8 +15,7 @@ Do you want to become a data scientist using R, Python or Julia? These are some 
 
 | Topic | Webs | Books
 | --- | --- | --- |
-| Statistics |  | [The Elements of 
-Statistical Learning](https://web.stanford.edu/~hastie/Papers/ESLII.pdf)<br />[Statistical Thinking for the 21st Century](http://statsthinking21.org/index.html) |
+| Statistics |  | [The Elements of Statistical Learning](https://web.stanford.edu/~hastie/Papers/ESLII.pdf)<br />[Statistical Thinking for the 21st Century](http://statsthinking21.org/index.html) |
 | Mathematics |  | [Mathematics For Machine Learning](https://github.com/mml-book/mml-book.github.io) |
 | Data Science |  | [Foundations of Data Science](https://www.cs.cornell.edu/jeh/book.pdf) |
 | Deep Learning | [Deep Learning Models](https://github.com/rasbt/deeplearning-models) | --- |
