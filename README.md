@@ -179,4 +179,6 @@ install_course("Data_Analysis")
 
 - [No So Standard deviations](http://nssdeviations.com)
 - [Data Skeptic](https://dataskeptic.com)
+- [The Analytics Engineering Podcast ](https://podcasts.apple.com/us/podcast/the-analytics-engineering-podcast/id1574755368)
 - [Apple Machine Learning Journal](https://machinelearning.apple.com)
+- [Data Science Leaders](https://podcasts.apple.com/us/podcast/data-science-leaders/id1564587119)
