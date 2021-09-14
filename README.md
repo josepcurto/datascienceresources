@@ -93,6 +93,7 @@ install_course("Data_Analysis")
 ### Courses
 
 - [UCL Course on RL](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html)
+- [DeepMind/UCL course on RL](https://deepmind.com/learning-resources/reinforcement-learning-series-2021)
 - [Learn with Google AI](https://ai.google/education/#?modal_active=none)
 - https://www.yan-holtz.com/teaching
 - https://learningstatisticswithr.com
