@@ -175,7 +175,7 @@ install_course("Data_Analysis")
 - [Awesome python](https://github.com/vinta/awesome-python)
 - [Awesome R](https://github.com/qinwf/awesome-R)
 - [Awesome Public Datasets](https://github.com/caesar0301/awesome-public-datasets)
-- [Awesome Reponsible AI](https://github.com/AthenaCore/AwesomeResponsibleAI)
+- [Awesome Responsible AI](https://github.com/AthenaCore/AwesomeResponsibleAI)
 
 ### Blogs and podcast
 
@@ -184,3 +184,7 @@ install_course("Data_Analysis")
 - [The Analytics Engineering Podcast ](https://podcasts.apple.com/us/podcast/the-analytics-engineering-podcast/id1574755368)
 - [Apple Machine Learning Journal](https://machinelearning.apple.com)
 - [Data Science Leaders](https://podcasts.apple.com/us/podcast/data-science-leaders/id1564587119)
+
+### Visual explanations
+
+- [Transformer explainer](https://poloclub.github.io/transformer-explainer)
