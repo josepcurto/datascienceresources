@@ -117,6 +117,7 @@ install_course("Data_Analysis")
 - [Interactive Periodic Table of Machine Learning Libraries](http://www.mln.io/resources/periodic-table/)
 - [Google's Seedbank](http://tools.google.com/seedbank/)
 - [Google's Distill](https://distill.pub)
+- [Reinforcement Learning: an Overview](https://arxiv.org/pdf/2412.05265)
 
 ### Data Visualization
 
