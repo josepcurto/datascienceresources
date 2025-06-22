@@ -15,6 +15,7 @@ Do you want to know about statistics, mathematics, data science and deep learnin
 
 | Topic | Webs | Books
 | --- | --- | --- |
+| Computer Vision | --- | [Foundations of Computer Vision](https://visionbook.mit.edu) |
 | Statistics |  | [The Elements of Statistical Learning](https://web.stanford.edu/~hastie/Papers/ESLII.pdf)<br />[Statistical Thinking for the 21st Century](http://statsthinking21.org/index.html) |
 | Mathematics |  | [Mathematics For Machine Learning](https://github.com/mml-book/mml-book.github.io) |
 | Machine Learning |  | [PATTERNS, PREDICTIONS, AND ACTIONS](https://mlstory.org/)<br />[Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/) | 
